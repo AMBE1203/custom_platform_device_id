@@ -17,3 +17,5 @@ dependencies:
     path: ./platform_device_id_windows
   platform_device_id_web:
     path: ./platform_device_id_web
+  platform_device_id_platform_interface:
+    path: ./platform_device_id_platform_interface
